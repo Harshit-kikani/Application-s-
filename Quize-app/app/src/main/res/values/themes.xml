@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Quizeapp" parent="Base.Theme.Quizeapp" />
+    <style name="ProgressBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorSecondary">#3297ca</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
 </resources>
